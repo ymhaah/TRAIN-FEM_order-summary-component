@@ -1,4 +1,6 @@
 # Frontend Mentor - Order summary component solution
+> Started at: Dec 24, 2021
+
 
 This is a solution to the [Order summary component](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) page challenge on Frontend Mentor. FrontendMentor is a platform where developers can improve their front-end skills by building real projects and receiving feedback from the community.
 
